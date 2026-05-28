@@ -27,3 +27,7 @@ Cat care tracker app. Mark feeding, sleep, play — the app keeps statistics and
 Запустите `CatCounter.exe`  
 Run `CatCounter.exe`
 
+⚠️ Примечание: Это программа для учёта. Автор не рекомендует перекармливать кота или пренебрегать сном. Всё ответственность за здоровье и состояние питомца лежит на владельце.
+
+⚠️ Note: This is a tracking app. The author does not recommend overfeeding your cat or neglecting its sleep. All responsibility for your pet's health and well-being lies with the owner.
+
