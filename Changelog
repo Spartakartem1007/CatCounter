@@ -1,0 +1,7 @@
+Обновление 1.1/Update 1.1
+
+**Русский:**
+Исправлен баг, из-за которого очки, заработанные в мини-играх, ошибочно учитывались как игры с котом. Теперь статистика разнесена корректно.
+
+**English:**
+Fixed a bug where points earned in mini-games were incorrectly counted as play sessions with the cat. Statistics are now properly separated.
